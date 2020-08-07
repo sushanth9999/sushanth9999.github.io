@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>
+   Sushanth's Resume
+  </title>
+</head>
+<body>
+<style>
+div {
+  background-image: url('back.jpg')
+}
+</style>
+</body>
+</html>
+
