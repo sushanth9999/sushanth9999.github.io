@@ -6,7 +6,11 @@
    Sushanth's Resume
   </title>
 </head>
-<body background= "back.jpg">
+<body>
+<style>
+div {
+  background-image: url('back.jpg')
+}
 </body>
 </html>
 
